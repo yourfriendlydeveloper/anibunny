@@ -17,7 +17,7 @@ const links:{label: string, url:string}[] = [
     url: "https://tiktok.com/prettyfamouspopstar"
   },
   {
-    label: "Keikkakalenteri",
+    label: "keikkakalenteri",
     url: "https://www.team.fi/artist/ani/"
   }
 ];
